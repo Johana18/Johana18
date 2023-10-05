@@ -1,5 +1,15 @@
-### Hi there 👋
-
+# Hola 👋 Mi nombre es Johana Villatoro
+### Desarrollo Web Junior
+![https://github.com/Johana18](https://raw.githubusercontent.com/Johana18/Johana18/main/Banner.png)
+## Contacto:
+<div id="badges">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/johana-daniela-de-la-cruz-villatoro)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="johanavillatoro18@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</div>
 <!--
 **Johana18/Johana18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
